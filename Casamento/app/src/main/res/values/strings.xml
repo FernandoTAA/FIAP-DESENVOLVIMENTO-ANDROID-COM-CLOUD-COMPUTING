@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Wedding</string>
+    
+    <string name="lista_casamentos">Wedding Listing</string>
+    <string name="edicao_casamento">Wedding Edition</string>
+    <string name="cadastrar_usuario">Register User</string>
+    <string name="sobre">About</string>
+   
+    <string name="atualizar">Refresh</string>
+    <string name="sair">Exit</string>
+
+    <string name="autenticacao_title">Authentication</string>
+    <string name="autenticacao_instrucoes">Enter the Username and Password and press Enter.\nIf you are accessing the first one, press the register button.</string>
+    <string name="usuario">User</string>
+    <string name="senha">Password</string>
+    <string name="manter_conectado">Keep Connected</string>
+    <string name="entrar">Enter</string>
+    <string name="cadastrar">Register</string>
+
+    <string name="nome">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirmacao_de_senha">Password Confirmation</string>
+    <string name="salvar">Save</string>
+
+    <string name="nome_homem">Man Name</string>
+    <string name="nome_mulher">Woman Name</string>
+    <string name="data_do_casamento">Wedding Date (DD/MM/YYYY)</string>
+    <string name="local_do_casamento">Wedding Location</string>
+
+    <string name="nome_homem_label">Man Name: </string>
+    <string name="nome_mulher_label">Woman Name: </string>
+    <string name="data_do_casamento_label">Wedding Date: </string>
+    <string name="local_do_casamento_label">Wedding Location: </string>
+
+    <string name="desenvolvedor">Developer</string>
+    <string name="versao">Version</string>
+
+    <string name="acao">Action</string>
+    <string name="alterar">Change</string>
+    <string name="remover">Remove</string>
+
+    <string name="nome_obrigatorio">The name is required</string>
+    <string name="email_obrigatorio">Email is required</string>
+    <string name="usuario_obrigatorio">The user is required</string>
+    <string name="senha_obrigatorio">Password is required</string>
+    <string name="confirmacao_senha_obrigatorio">Confirmation of password is required</string>
+    <string name="senhas_diferentes">Passwords are different</string>
+
+    <string name="nome_homem_obrigatorio">Man name is required</string>
+    <string name="nome_mulher_obrigatorio">Woman name is required</string>
+    <string name="data_casamento_obrigatorio">Marriage date is required</string>
+    <string name="local_casamento_obrigatorio">Wedding location is required</string>
+    <string name="formato_data_casamento_errado">The format of the wedding date is wrong</string>
+
+    <string name="falha">Failed: </string>
+    <string name="erro">ERROR: </string>
+
+    <string name="casamento_removido_com_sucesso">Wedding successfully removed</string>
+    <string name="falha_cadastrar_usuario">Failed to register user</string>
+    <string name="falha_autenticacao">Authentication failed</string>
+    <string name="falha_buscar_casamento_por_id">Failed to fetch the match by ID</string>
+    <string name="falha_salvar_casamento">Failed to save the wedding</string>
+    <string name="falha_remover_casamento_por_id">Failed to remove the match by ID</string>
+
+</resources>

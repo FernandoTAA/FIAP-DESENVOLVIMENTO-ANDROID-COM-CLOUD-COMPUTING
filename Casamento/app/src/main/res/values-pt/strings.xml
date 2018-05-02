@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Casamento</string>
+
+    <string name="lista_casamentos">Listagem de Casamentos</string>
+    <string name="edicao_casamento">Edição do Casamento</string>
+    <string name="cadastrar_usuario">Cadastrar Usuário</string>
+    <string name="sobre">Sobre</string>
+
+    <string name="atualizar">Atualizar</string>
+    <string name="sair">Sair</string>
+
+    <string name="autenticacao_title">Autenticação</string>
+    <string name="autenticacao_instrucoes">Entre com os dados de Usuário e Senha e aperte em Entrar.\nSe estiver acessando pela primeira, aperte o botão cadastrar.</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirmacao_de_senha">Confirmação de Senha</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="nome_homem">Nome Homem</string>
+    <string name="nome_mulher">Nome Mulher</string>
+    <string name="data_do_casamento">Data do Casamento (DD/MM/AAAA)</string>
+    <string name="local_do_casamento">Local do Casamento</string>
+
+    <string name="nome_homem_label">Nome Homem: </string>
+    <string name="nome_mulher_label">Nome Mulher: </string>
+    <string name="data_do_casamento_label">Data do Casamento: </string>
+    <string name="local_do_casamento_label">Local do Casamento: </string>
+
+    <string name="desenvolvedor">Desenvolvedor</string>
+    <string name="versao">Versão</string>
+
+    <string name="acao">Ação</string>
+    <string name="alterar">Alterar</string>
+    <string name="remover">Remover</string>
+
+    <string name="nome_obrigatorio">O nome é obrigatório</string>
+    <string name="email_obrigatorio">O e-mail é obrigatório</string>
+    <string name="usuario_obrigatorio">O usuario é obrigatório</string>
+    <string name="senha_obrigatorio">A senha é obrigatório</string>
+    <string name="confirmacao_senha_obrigatorio">A confirmação da senha é obrigatório</string>
+    <string name="senhas_diferentes">As senhas são diferentes</string>
+
+    <string name="nome_homem_obrigatorio">O nome do homem é obrigatório</string>
+    <string name="nome_mulher_obrigatorio">O nome da mulher é obrigatório</string>
+    <string name="data_casamento_obrigatorio">A data do casamento é obrigatório</string>
+    <string name="local_casamento_obrigatorio">O local do casamento é obrigatório</string>
+    <string name="formato_data_casamento_errado">O formato da data do casamento está errado</string>
+
+    <string name="falha">Falha: </string>
+    <string name="erro">ERROR: </string>
+
+    <string name="casamento_removido_com_sucesso">Casamento removido com sucesso</string>
+    <string name="falha_cadastrar_usuario">Falha ao cadastrar do usuario</string>
+    <string name="falha_autenticacao">Falha na autenticação</string>
+    <string name="falha_buscar_casamento_por_id">Falha ao buscar o casamento por identificador</string>
+    <string name="falha_salvar_casamento">Falha ao salvar o casamento</string>
+    <string name="falha_remover_casamento_por_id">Falha ao remover o casamento por identificador</string>
+
+</resources>

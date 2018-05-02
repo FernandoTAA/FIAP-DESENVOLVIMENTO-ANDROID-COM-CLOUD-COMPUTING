@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:columnCount="2"
+            android:rowCount="4"
+            android:background="@color/background_splash"
+            android:layout_marginBottom="8dp"
+            android:padding="4dp">
+
+    <TextView
+            android:text="@string/nome_homem_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:id="@+id/tvItemCasamentoNomeHomem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:text="@string/nome_mulher_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:id="@+id/tvItemCasamentoNomeMulher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:text="@string/data_do_casamento_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:id="@+id/tvItemCasamentoData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:text="@string/local_do_casamento_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="8dp"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:id="@+id/tvItemCasamentoLocal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+</GridLayout>
